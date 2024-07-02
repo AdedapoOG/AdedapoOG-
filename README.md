@@ -17,7 +17,7 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Prototype 2 Factor Authentication             | <a href="https://www.figma.com/proto/HLIEQwHauOlsAC7fKcI0ZH/EMBRACE-LOAN-APP?type=design&node-id=24-78&t=bN8OPw9tBYeKHDur-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A2&show-proto-sidebar=1">Fintech Application</a>|
+| Prototype 2 Factor Authentication             | <a href=https://github.com/AdedapoOG/Fintech-Application/tree/main>Fintech Application</a>|
 ## Tools
 
 
@@ -53,4 +53,4 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 ## Projects
 <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>
 - SOC Automation Project
-- Fintech Application
+<a href=https://github.com/AdedapoOG/Fintech-Application/tree/main>Fintech Application</a>
