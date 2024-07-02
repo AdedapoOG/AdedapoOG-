@@ -11,8 +11,8 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://www.figma.com/proto/">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          |  <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -53,5 +53,5 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 </div>
 
 ## Projects
-- Detection Lab
+<a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>
 - SOC Automation Project
