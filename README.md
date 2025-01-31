@@ -11,8 +11,8 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit 2 vulnerabilities analysis and Recommendations |  <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
+| Metasploit 2 vulnerabilities analysis |  <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
+| Metasploit 2 vulnerabilities recommendations | <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
