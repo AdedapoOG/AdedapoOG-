@@ -13,9 +13,9 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 |-----------------------------------------------|----------------------------|
 | Metasploit 2 vulnerabilities analysis |  <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
 | Metasploit 2 vulnerabilities recommendations | <a href=https://github.com/AdedapoOG/Detection-Lab/tree/main>Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
+| Security Automation with Splunk              | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
+| Case Management                               | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Prototype 2 Factor Authentication             | <a href=https://github.com/AdedapoOG/Fintech-Application/tree/main>Fintech Application</a>|
 ## Tools
