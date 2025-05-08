@@ -17,7 +17,7 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 | Intrusion Detection & Attack Simulation       | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Network & System Security                     | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Incident Response & Threat Hunting            | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
-| Prototype 2 Factor Authentication             | <a href=https://github.com/AdedapoOG/Fintech-Application/tree/main>Fintech Application</a>|
+| Prototype 2 Factor Authenticatio             | <a href=https://github.com/AdedapoOG/Fintech-Application/tree/main>Fintech Application</a>|
 ## Tools
 
 
