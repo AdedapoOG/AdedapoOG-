@@ -17,7 +17,7 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
 | Intrusion Detection & Attack Simulation       | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Network & System Security                     | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
 | Incident Response & Threat Hunting            | <a href=https://github.com/AdedapoOG/SOC-Automation/tree/main>SOC Automation Lab</a>|
-| End to End Detection Analysis                 | <a href=https://github.com/AdedapoOG/Zenith_fishing_project/tree/main>Detection lab</a>|
+| End to End Detection Analysis                 | <a href=https://github.com/AdedapoOG/Zenith_fishing_project/tree/main>Zenith_Phishing_Lab</a>|
 ## Tools
 
 
