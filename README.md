@@ -1,10 +1,9 @@
 # Hello, I'm Ade
 **Cybersecurity Analyst — SOC | Incident Response | Security Automation**
-I build hands-on labs and playbooks that turn alerts into decisions.  
-Currently working on SIEM projects with Splunk, phishing investigations, and SOC automations.
 <a href="https://www.linkedin.com/in/adedapo-ogunwoolu-59a395134/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity Analyst with a robust foundation in accounting and financial technology, certified by Google and CompTIA Security+. Specialized in access control, threat management, and incident response. Proven ability to implement effective security measures and conduct thorough vulnerability assessments. Committed to leveraging my analytical skills and cybersecurity expertise to safeguard organizations against cyber attacks.
+I am a Cybersecurity Analyst with a robust foundation in accounting and financial technology, certified by Google and CompTIA Security+. Specialized in access control, threat management, and incident response. Proven ability to implement effective security measures and conduct thorough vulnerability assessments. Committed to leveraging my analytical skills and cybersecurity expertise to safeguard organizations against cyber attacks. I build hands-on labs and playbooks that turn alerts into decisions.  
+Currently working on SIEM projects with Splunk, phishing investigations, and SOC automations.
 
 ## Objective
 I have a robust academic foundation in Financial Technology and an unwavering passion for a career in Information Cybersecurity. I have a solid grounding in accounting, and now I am poised to harness my expertise to safeguard sensitive data and fortify information systems. My academic pursuits have equipped me with a profound grasp of cybersecurity principles, risk management, and network security protocols. Through practical experience and a proactive approach. I have honed the art of deciphering analyzing intricate systems and complex situations. I am eager to channel my dedication to data protection, contribute to threat identification and prevention, and continually elevate my competencies in this dynamically evolving specialized area.
