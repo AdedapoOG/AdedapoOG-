@@ -47,6 +47,31 @@ I have a robust academic foundation in Financial Technology and an unwavering pa
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
+### EDR & Threat Detection
+<div>
+  <img src="https://img.shields.io/badge/CrowdStrike-E01E5A?style=for-the-badge&logo=CrowdStrike&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Carbon_Black-FF8C00?style=for-the-badge&logo=CarbonBlack&logoColor=white"/>
+</div>
+
+### Identity & Access
+<div>
+  <img src="https://img.shields.io/badge/Okta-1F70C1?style=for-the-badge&logo=Okta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
+</div>
+
+### Offensive Security
+<div>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=KaliLinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-6DB33F?style=for-the-badge&logo=Metasploit&logoColor=white"/>
+</div>
+
+### Cloud & Automation
+<div>
+  <img src="https://img.shields.io/badge/Azure_Security_Center-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-A5D6A7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
