@@ -1,7 +1,9 @@
-# Hello, I'm Ade
-<a href="https://www.linkedin.com/in/adedapo-ogunwoolu-59a395134/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Ade **Cybersecurity Analyst — SOC | Incident Response | Security Automation**
 
-**Cybersecurity Analyst — SOC | Incident Response | Security Automation**
+<a href="https://www.linkedin.com/in/adedapo-ogunwoolu-59a395134/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/CyberCafeHQ"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+
 
 I am a Cybersecurity Analyst with a robust foundation in accounting and financial technology, certified by Google and CompTIA Security+. Specialized in access control, threat management, and incident response. Proven ability to implement effective security measures and conduct thorough vulnerability assessments. Committed to leveraging my analytical skills and cybersecurity expertise to safeguard organizations against cyber attacks. I build hands-on labs and playbooks that turn alerts into decisions.  
 Currently working on SIEM projects with Splunk, phishing investigations, and SOC automations.
